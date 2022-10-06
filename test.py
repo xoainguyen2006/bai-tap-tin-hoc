@@ -1,5 +1,3 @@
-
-
 def main():
     m = int(input('nhap vao so m: '))
     n = int(input('nhap vao so n: '))
